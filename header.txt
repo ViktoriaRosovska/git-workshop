@@ -1,6 +1,5 @@
 Hello
-<<<<<<< HEAD
+
 Hello all peaple.
-=======
-Changes from master
->>>>>>> master
+
+Changes from master -> new changes
